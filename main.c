@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "Structure.h"
+
 void main() {
     LIRE_DATA();
 	//init();
